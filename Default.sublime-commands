@@ -12,5 +12,19 @@
         {
             "action": "dec"
         }
+    },
+    {
+        "caption": "QuickThemes: change group",
+        "command": "quick_themes", "args":
+        {
+            "action": "group"
+        }
+    },
+    {
+        "caption": "QuickThemes: reload themes",
+        "command": "quick_themes", "args":
+        {
+            "action": "reload"
+        }
     }
 ]

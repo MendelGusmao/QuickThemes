@@ -1,10 +1,12 @@
 # Info
 
-QuickThemes allows you to easily cycle through any combination of Sublime Text 2 preferences. The obvious use is for changing color schemes, themes, and fonts simultaneously, but any of the ST2 preferences are available.
+QuickThemes allows you to easily cycle through any combination of Sublime Text 2 preferences. The obvious use is for changing color schemes, themes, and fonts simultaneously, but any of the ST2 preferences are available. It can search for installed themes and group them by its directories' names.
 
 # Usage
 
-Super+Alt+0: Cycle up  
+Super+Alt+=: Search for installed themes (will overwrite quick_themes)
+Super+Alt+-: Change group
+Super+Alt+0: Cycle up
 Super+Alt+9: Cycle down
 
 Alternatively, you can switch themes via Super+Shift+P and fuzzy search, e.g. "Super+Shift+P qtn" for next theme, "Super+Shift+P qtp" for previous theme.
